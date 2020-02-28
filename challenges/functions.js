@@ -34,8 +34,8 @@ console.log(consume("Mary", "Poppins", greeting)); // Hello Mary Poppins, nice t
 // ==== Closures ====
 
 // Explain in your own words why nestedfunction can access the variable internal.
-//a nested function can "inherit" the arguments and variables of its containing function.
-//In other words, the inner function contains the scope of the outer function.
+/* a nested function can "inherit" the arguments and variables of its containing function.
+In other words, the inner function contains the scope of the outer function. */
 
 // Explanation:
 
