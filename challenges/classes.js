@@ -37,6 +37,8 @@ class CubeMaker extends CuboidMaker{
         return 6 * this.width * this.height;
     }
 }
+
+//creat a new object
 const cubeOne = new CubeMaker({
     width: 10,
     height: 10,
